@@ -1,0 +1,30 @@
+# IDE, текстовые редакторы
+.idea/
+*.swp
+*.swo
+.project
+.classpath
+.DS_Store
+
+# Python
+*.pyc
+__pycache__/
+*.log
+*.pot
+*.mo
+*.sqlite3
+
+# Django
+local_settings.py
+db.sqlite3
+media/
+static/
+.env
+.venv/
+
+# Другое
+.env
+.env.*
+*.env
+venv/
+env/
