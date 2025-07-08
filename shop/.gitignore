@@ -21,6 +21,7 @@ media/
 static/
 .env
 .venv/
+products/
 
 # Другое
 .env
