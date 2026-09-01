@@ -28,4 +28,5 @@ product/
 .env.*
 *.env
 venv/
-env/
+env
+
